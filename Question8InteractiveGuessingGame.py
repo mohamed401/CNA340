@@ -3,7 +3,7 @@ import random
 randomnumber = random.randint(1,10)
 print(randomnumber)
 
-for i in range (1,4)
+for i in range (1,4):
     userguess = input("What number do you guess?")
     userguess = int(userguess)
     if randomnumber == userguess:

@@ -9,5 +9,5 @@ def lone_sum(a, b, c):
         return c
     else:
         return a+b+c
-print(lone_sum(1,1,2))
+print(lone_sum(2,5,2))
 
